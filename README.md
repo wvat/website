@@ -1,3 +1,3 @@
 # Personal Website
 
-A simple personal page made using flask.
+A simple personal page made with Flask.
